@@ -1,1 +1,1 @@
-#### This is a repo for our new GCP devOps project
+# This is a repo for our new GCP devOps project
